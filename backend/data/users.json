@@ -1,0 +1,20 @@
+[
+  {
+    "id": "c694e39a-c4b1-483f-b20c-e17d6ba0baf6",
+    "name": "Tom Hanks",
+    "password": "passwordOne",
+    "email": "tom@hanks.com"
+  },
+  {
+    "id": "eaa46d24-db94-4717-8f2d-dedb0aa56008",
+    "name": "John Cena",
+    "password": "Hisnameisjohncena",
+    "email": "John@Cena.com"
+  },
+  {
+    "id": "8797f1db-71f5-49eb-a86c-a2f9b1efdd1a",
+    "name": "Jordan Lee",
+    "password": "$2b$10$YUK7kRNTWMd0aGdpLVM4buQf3Oj0Omi34.dulWxMSRHP.h6B.RzxO",
+    "email": "Jordan@Lee.com"
+  }
+]
